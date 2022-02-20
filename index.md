@@ -1,8 +1,11 @@
 ### CS-499-T3725 Computer Science Capstone Josh Leaton
 
-You can use the [editor on GitHub](https://github.com/Docleaton/Docleatonn.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Self-Reflection
+	
+I did not start my schooling at SNHU, I started it at UCCS (University of Colorado at Colorado Springs.  After having to relocate I was able to transfer to SNHU. I was allowed to transfer my credits and continue working on my degree. I have been using the skills learned at both schools to help me with personal projects.
+	
+This program has been useful in my growth as a programmer. It has helped me learn quite a bit about the process of creating a functioning program.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown - Raspberrypitemphumid.py
 
@@ -53,6 +56,8 @@ while True:
 
 
 ```
+# Enhancement One
+This section of code I have selected is for a Raspberry Pi device that has sensors connected to it to measure the temperature and humidity. This code was made and works well, I chose this because it is a simple design and works. I have changes some of the comments that were more notes for myself and the professor to something more universal for anyone. The code is short so there was not a lot to be done with it other than cleaning it up a bit.
 
 
 ### Markdown - BinarySearchTree.cpp
@@ -375,6 +380,11 @@ int main(int argc, char* argv[]) {
 
 
 ```
+
+# Enhancement Two
+For this assignment I had to remove a few pieces of code one of which I did not do, it was in the original code from the school and was credited to a user on stack overflow. Because of this I don’t believe I should use that portion of code. I also removed to pieces of code that were commented out to help clean up the code. Because of this the code is much more compact and easier to read. I cleaned up some comments to make more sense to other readers.
+
+
 ### Markdown - AnimalShelter.py
 
 ```Markdown
@@ -434,4 +444,6 @@ class AnimalShelter(object):
             raise Exception("Nothing to delete, because project parameter is None")
 
 ```
+# Enhancement Three
+For this assignment I chose the animalshelter.py code it is a basic CRUD file and a good example of setting up database features. It is a small bit of code but displays the creation of MongoDB CRUD, C is for Creation R is for Read U is for Update and D is for Delete. This Bit of code is important for working in a database. This bit of code did not need to be reworked at all, it is efficient and commented well.  So, because of this no changes were made.
 
