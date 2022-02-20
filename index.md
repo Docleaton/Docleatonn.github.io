@@ -1,10 +1,11 @@
 ### CS-499-T3725 Computer Science Capstone Josh Leaton
 
-## Self-Reflection
+# Self-Reflection
 	
-I did not start my schooling at SNHU, I started it at UCCS (University of Colorado at Colorado Springs.  After having to relocate I was able to transfer to SNHU. I was allowed to transfer my credits and continue working on my degree. I have been using the skills learned at both schools to help me with personal projects.
-	
-This program has been useful in my growth as a programmer. It has helped me learn quite a bit about the process of creating a functioning program.
+# 	I did not start my schooling at SNHU, I started it at UCCS (University of Colorado at Colorado Springs).  After having to relocate I was able to transfer my credits to SNHU and continue my educational path. I was allowed to transfer my credits and continue working on my degree. I have been using the skills learned at both schools to help me with personal projects. 
+
+#	This program has been useful in my growth as a programmer. It has helped me learn quite a bit about the process of creating a functioning program. One of the things I really appreciated from the course was learning the agile method to create software. Understanding this process has helped me stay organized while working on a project. 
+
 
 
 ### Markdown - Raspberrypitemphumid.py
