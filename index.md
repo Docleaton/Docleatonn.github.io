@@ -2,10 +2,32 @@
 
 # Self-Reflection
 	
-# 	I did not start my schooling at SNHU, I started it at UCCS (University of Colorado at Colorado Springs).  After having to relocate I was able to transfer my credits to SNHU and continue my educational path. I was allowed to transfer my credits and continue working on my degree. I have been using the skills learned at both schools to help me with personal projects. 
+   I did not start my schooling at SNHU, I started it at UCCS (University of Colorado at Colorado Springs).  After having to
+relocate I was able to transfer my credits to SNHU and continue my educational path. I was allowed to transfer my credits and
+continue working on my degree. I have been using the skills learned at both schools to help me with personal projects. 
+   
+   This program has been useful in my growth as a programmer. It has helped me learn quite a bit about the process of creating a
+functioning program. One of the things I really appreciated from the course was learning the agile method to create software.
+Understanding this process has helped me stay organized while working on a project. 
 
-#	This program has been useful in my growth as a programmer. It has helped me learn quite a bit about the process of creating a functioning program. One of the things I really appreciated from the course was learning the agile method to create software. Understanding this process has helped me stay organized while working on a project. 
+# Portfolio Summary 
+   The sections of code I selected for my portfolio are some of the better pieces of code I have worked on. They represent
+examples of Software design and engineering, Algorithms and data structures, and databases. Each sections shows sections from each
+of the three classes. Each section was chosen because I believe they are the best parts of each project I worked on.  
 
+   The first section of code is from class CS-350-T3241 Emerging Sys Arch & Tech. The code file is Raspberrypitemphumid.py this is
+a Python file. This code was developed for a Raspberry Pi device. The code is designed to read temperature and humidity from a
+sensor and print out the results on a digital screen. This data is also stored in a separate file. This is a small project that
+anyone could complete.
+
+   The Second section of code is from the class CS-260-J1700 Data Structures and Algorithms. The code that I have selected is a
+Binary Search tree, it is in C++. This project shows my work with data structures and algorithms. 
+
+   The final section of code is from class CS-340-T4217 ClientServer Development. This is another Python file.  This project was
+to create a database for an animal shelter. I chose the CRUD (Create, Read, Update, Delete) file as my example of databases. A
+CRUD file is necessary in databases to do any editing in MongoDB. 
+
+   
 
 
 ### Markdown - Raspberrypitemphumid.py
@@ -58,7 +80,7 @@ while True:
 
 ```
 # Enhancement One
-This section of code I have selected is for a Raspberry Pi device that has sensors connected to it to measure the temperature and humidity. This code was made and works well, I chose this because it is a simple design and works. I have changes some of the comments that were more notes for myself and the professor to something more universal for anyone. The code is short so there was not a lot to be done with it other than cleaning it up a bit.
+   This section of code I have selected is for a Raspberry Pi device that has sensors connected to it to measure the temperature and humidity. This code was made and works well, I chose this because it is a simple design and works. I have changes some of the comments that were more notes for myself and the professor to something more universal for anyone. The code is short so there was not a lot to be done with it other than cleaning it up a bit.
 
 
 ### Markdown - BinarySearchTree.cpp
